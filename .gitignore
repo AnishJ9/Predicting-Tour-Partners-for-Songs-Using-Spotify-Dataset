@@ -1,0 +1,3 @@
+private_data/
+.env
+##Store variables named "CLIENT_ID" and "API_KEY" in .env
